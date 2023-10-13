@@ -12,7 +12,7 @@ public class XplusN {
 		long[] answer = new long[n];
 	        
 	        for (int i=0; i<n; i++)
-	            answer[i] = x*(i+1);
+	            answer[i] = (long)x*(i+1);
 	        
 	        // 배열을 보려면 Arrays.toString 해줘야함.
 	        System.out.println(Arrays.toString(answer));
