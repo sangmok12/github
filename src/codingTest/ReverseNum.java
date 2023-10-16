@@ -18,7 +18,7 @@ public class ReverseNum {
 		}
 		
 		
-		//¹®ÀÚ¿­À» µÚÁı´Â ¸Ş¼Òµå 
+		//ë¬¸ìì—´ ë°°ì—´ì„ ë’¤ì§‘ëŠ” í•¨ìˆ˜  
 		StringBuilder numb = new StringBuilder(num);
 		numb = numb.reverse();
 		System.out.println(numb);
