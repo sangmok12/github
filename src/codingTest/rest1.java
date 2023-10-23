@@ -1,4 +1,4 @@
-// 나누고 나머지 1이 되는 가장 작은수 .
+//나머지 1
 
 
 package codingTest;
@@ -15,6 +15,6 @@ public class rest1 {
                 break;
             }
         }
-        System.out.println(answer);
+        System.out.println("뭐야");
 	}
 }
