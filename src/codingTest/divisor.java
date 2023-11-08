@@ -1,3 +1,4 @@
+//주어진 수 d 로 나눠지는 배열만 순서대로 배열, 없으면 -1
 package codingTest;
 
 import java.util.Arrays;
