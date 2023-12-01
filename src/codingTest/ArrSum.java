@@ -15,6 +15,7 @@ public class ArrSum {
 			for (int s=0;s<a[i].length;s++) {
 				sum[i][s] = a[i][s] + b[i][s];
 				System.out.println(sum[i][s]);
+				System.out.println(alen);
 			}
 		}
 		
